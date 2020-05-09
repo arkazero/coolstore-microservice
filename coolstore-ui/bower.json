@@ -15,9 +15,10 @@
         "angular-route": "1.5.10",
         "keycloak": "1.9.8"
     },
-    "resolutions": {
+   "resolutions": {
         "angular": "1.5.10",
-         "bootstrap": "~3.3.7",
-        "jquery": "3.4.0"
+        "jquery": "3.4.0",
+        "bootstrap": "~3.3.7"
     }
 }
+
